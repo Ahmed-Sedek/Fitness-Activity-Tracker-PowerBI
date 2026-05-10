@@ -42,7 +42,7 @@ performance trends and identify activity patterns over time.
   flagging opportunity to increase moderate/intense sessions
 - Peak step count reached 111K on day 30 — 
   identifying high performance days for pattern analysis
-- Calorie burn consistently tracked below target of 5,000 — 
+- Calorie burn consistently tracked below Max allowable target of 5,000 — 
   supporting personalized fitness goal adjustment
 
 ---
